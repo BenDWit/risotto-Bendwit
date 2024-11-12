@@ -1,6 +1,7 @@
 # 🍚 risotto
 
 risotto is a minimalist, responsive [hugo](https://gohugo.io) theme inspired by terminal ricing aesthetics.
+i added https://discourse.gohugo.io/t/url-scheme-doesnt-work/45290/2 to allow for clickable xmpp links
 
 [![Hugo Themes](https://img.shields.io/badge/Hugo_Themes-risotto-blue?logo=hugo)](https://themes.gohugo.io/themes/risotto/)
 [![Version](https://img.shields.io/badge/semver-v0.4.0-blue)](https://semver.org)
