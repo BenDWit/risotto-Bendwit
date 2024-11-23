@@ -18,14 +18,14 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+palette = "gruvbox-dark"
 
 # Sidebar: about/bio
 [params.about]
 title = "risotto"
 description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
 # unicode/emoji logo:
-logo = "🍚"
+logo = "☦️"
 # or use an image:
 #logo_image = "images/rice.svg"
 
@@ -48,6 +48,13 @@ url = "mailto:example@example.com"
 icon = "ai ai-orcid"
 title = "ORCID"
 url = "https://orcid.org/0000-0001-2345-6789"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-comment"
+title = "XMPP"
+url = "xmpp:yourname@xmpp.com"
+
+
 
 [menu]
 
